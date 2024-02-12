@@ -27,4 +27,4 @@ double resultTask3 = Math.Pow (Task1, Task2);//мас бибилиотека а 
 Console.WriteLine(Multi);
 Console.WriteLine(resultTask3);
 
-
+//
