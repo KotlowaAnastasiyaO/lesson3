@@ -9,3 +9,4 @@ int firstNum = num / 100;
 int thirdNum = num % 10;
 int resultNum = firstNum * 10 + thirdNum;
 Console.WriteLine(resultNum);
+//
