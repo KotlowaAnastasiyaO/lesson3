@@ -1,0 +1,15 @@
+C:\Users\159\Desktop\01 sharp\massiv\Tas2\obj\Debug\net6.0\Tas2.csproj.AssemblyReference.cache
+C:\Users\159\Desktop\01 sharp\massiv\Tas2\obj\Debug\net6.0\Tas2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\159\Desktop\01 sharp\massiv\Tas2\obj\Debug\net6.0\Tas2.AssemblyInfoInputs.cache
+C:\Users\159\Desktop\01 sharp\massiv\Tas2\obj\Debug\net6.0\Tas2.AssemblyInfo.cs
+C:\Users\159\Desktop\01 sharp\massiv\Tas2\obj\Debug\net6.0\Tas2.csproj.CoreCompileInputs.cache
+C:\Users\159\Desktop\01 sharp\massiv\Tas2\bin\Debug\net6.0\Tas2.exe
+C:\Users\159\Desktop\01 sharp\massiv\Tas2\bin\Debug\net6.0\Tas2.deps.json
+C:\Users\159\Desktop\01 sharp\massiv\Tas2\bin\Debug\net6.0\Tas2.runtimeconfig.json
+C:\Users\159\Desktop\01 sharp\massiv\Tas2\bin\Debug\net6.0\Tas2.dll
+C:\Users\159\Desktop\01 sharp\massiv\Tas2\bin\Debug\net6.0\Tas2.pdb
+C:\Users\159\Desktop\01 sharp\massiv\Tas2\obj\Debug\net6.0\Tas2.dll
+C:\Users\159\Desktop\01 sharp\massiv\Tas2\obj\Debug\net6.0\refint\Tas2.dll
+C:\Users\159\Desktop\01 sharp\massiv\Tas2\obj\Debug\net6.0\Tas2.pdb
+C:\Users\159\Desktop\01 sharp\massiv\Tas2\obj\Debug\net6.0\Tas2.genruntimeconfig.cache
+C:\Users\159\Desktop\01 sharp\massiv\Tas2\obj\Debug\net6.0\ref\Tas2.dll
